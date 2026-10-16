@@ -12,7 +12,8 @@ This project implements a simple text editor in C++ using a Doubly Linked List t
 - [Algorithm](UNIT_3/04_Algorithm/)
 - [Flowchart](UNIT_3/05_Flowchart.jpeg/)
 - [Output](UNIT_3/06_Output/)
-  
+- [Changed Problem Statement]
+- [Changed Algorithm] 
 
 
 ## 🛠 Technologies Used
