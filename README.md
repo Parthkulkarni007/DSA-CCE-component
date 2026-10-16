@@ -1,4 +1,4 @@
-# 1.Text Editor Undo/Redo Using Doubly Linked List
+# 1.Text Editor Undo/Redo Using Doubly Linked List(Also with Circular Linked list)
 
 ## 📌 Project Overview
 This project implements a simple text editor in C++ using a Doubly Linked List to manage text states and editing history. It supports writing, deleting, undo, redo, and displaying text, demonstrating the practical application of linked lists in text editing systems.
