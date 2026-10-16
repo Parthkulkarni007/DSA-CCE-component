@@ -1,0 +1,7 @@
+Objective
+
+1. To understand the concept of AVL trees and their balancing property.
+2. To study the four types of rotations: LL, RR, LR, and RL.
+3. To implement AVL tree insertion and rotation operations using C++.
+4. To display the tree structure before and after each rotation.
+5. To understand how rotations maintain the balance of a binary search tree.
