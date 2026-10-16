@@ -1,0 +1,5 @@
+Text editors need to remember every version of the text so the user can undo or redo changes. 
+This project stores each version in a node of a circular doubly linked list, where 
+the last node points back to the first. This lets the editor move between versions 
+in constant time. The circular link lets the program find the first and last versions 
+directly through head and head->prev.
