@@ -1,0 +1,16 @@
+Algorithm
+
+1. Start the program.
+2. Define a node structure containing data, left and right pointers, and height.
+3. Implement functions to calculate node height, balance factor, and update height.
+4. Implement right rotation and left rotation functions.
+5. Insert elements into the AVL tree using binary search tree insertion rules.
+6. Calculate the balance factor after every insertion.
+7. Identify the imbalance and perform the appropriate rotation:
+   - LL Case: Perform a right rotation.
+   - RR Case: Perform a left rotation.
+   - LR Case: Perform a left rotation on the left child, followed by a right rotation.
+   - RL Case: Perform a right rotation on the right child, followed by a left rotation.
+8. Display the tree before and after each rotation.
+9. Repeat the process for all four insertion sequences.
+10. Stop the program.
