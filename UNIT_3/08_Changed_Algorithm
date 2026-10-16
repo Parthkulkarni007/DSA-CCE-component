@@ -1,0 +1,23 @@
+Algorithm (changed)
+
+Structure: head->prev = last node, and last->next = head.
+
+Write / Delete
+
+Create the new text from the current text.
+Delete all nodes after current until current->next == head.
+Create a new node and set new->prev = current and new->next = head.
+Set current->next = new and head->prev = new.
+Move current to the new node.
+
+Undo
+
+If current == head, print “Nothing to undo” and stop.
+Else, set current = current->prev.
+
+Redo
+
+If current->next == head, print “Nothing to redo” and stop.
+Else, set current = current->next.
+
+Display: Print current->text.
