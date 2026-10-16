@@ -25,3 +25,31 @@ This project implements a simple text editor in C++ using a Doubly Linked List t
 
 ## 👨‍💻 Project
 Text Editor Undo/Redo Using Doubly Linked List
+
+
+# 2. AVL Rotation Demonstration Using C++
+
+## 📌 Project Overview
+
+This project demonstrates the four types of AVL tree rotations—LL, RR, LR, and RL—using C++. It uses suitable insertion sequences to create unbalanced trees and performs the required rotations to restore balance. The project illustrates the practical application of AVL trees and self-balancing binary search trees in data structures.
+
+## 📂 Project Contents
+
+- [Code](UNIT_4/01_code/)
+- [Problem Statement](UNIT_4/02_Problem_statement/)
+- [Objectives](UNIT_4/03_Objectives/)
+- [Algorithm](UNIT_4/04_Algorithm/)
+- [Flowchart](UNIT_4/05_Flowchart.jpeg)
+- [Output](UNIT_4/06_Output/)
+
+## 🛠 Technologies Used
+
+- C++
+- Data Structures and Algorithms
+- AVL Tree
+- Binary Search Tree (BST)
+- Dev-C++ / Visual Studio Code
+
+## 👨‍💻 Project
+
+AVL Rotation Demonstration (LL, RR, LR, RL)
