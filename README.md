@@ -27,6 +27,9 @@ This project implements a simple text editor in C++ using a Doubly Linked List t
 Text Editor Undo/Redo Using Doubly Linked List
 
 
+---------------------------------------------------------------------------------------------------------------------
+
+
 # 2. AVL Rotation Demonstration Using C++
 
 ## 📌 Project Overview
