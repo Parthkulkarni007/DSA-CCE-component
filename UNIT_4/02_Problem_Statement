@@ -1,0 +1,3 @@
+Write a C++ program to demonstrate LL, RR, LR, and RL rotations in an AVL tree using suitable 
+insertion sequences. Display the tree structure before and after each rotation 
+to illustrate how AVL rotations restore the balance of the tree.
