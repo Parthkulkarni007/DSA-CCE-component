@@ -38,12 +38,12 @@ This project demonstrates the four types of AVL tree rotations—LL, RR, LR, and
 
 ## 📂 Project Contents
 
-- [Code](UNIT_4/01_code.cpp/)
-- [Problem Statement](UNIT_4/02_Problem_Statement/)
-- [Objectives](UNIT_4/03_Objectives/)
-- [Algorithm](UNIT_4/04_Algorithm/)
-- [Flowchart](UNIT_4/05_Flowchart.png/)
-- [Output](UNIT_4/06_Output/)
+- [Code](DSA_UNIT_4_TREE/01_code.cpp/)
+- [Problem Statement](DSA_UNIT_4_TREE/02_Problem_Statement/)
+- [Objectives](DSA_UNIT_4_TREE/03_Objectives/)
+- [Algorithm](DSA_UNIT_4_TREE/04_Algorithm/)
+- [Flowchart](DSA_UNIT_4_TREE/05_Flowchart.png/)
+- [Output](DSA_UNIT_4_TREE/06_Output/)
 
 ## 🛠 Technologies Used
 
