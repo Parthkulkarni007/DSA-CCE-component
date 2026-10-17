@@ -6,15 +6,15 @@ This project implements a simple text editor in C++ using a Doubly Linked List t
 
 ## 📂 Project Contents
 
-- [Code](UNIT_3/01_code/)
-- [Problem Statement](UNIT_3/02_Problem_statement/)
-- [Objectives](UNIT_3/03_Objectives/)
-- [Algorithm](UNIT_3/04_Algorithm/)
-- [Flowchart](UNIT_3/05_Flowchart.jpeg/)
-- [Output](UNIT_3/06_Output/)
-- [Changed Problem Statement](UNIT_3/07_Problem_statement_changed/)
-- [Changed Algorithm](UNIT_3/08_Changed_Algorithm/)
-- [Changed code](UNIT_3/Circular.cpp/)
+- [Code](DSA_UNIT_3_LINKED_LIST/01_code.cpp/)
+- [Problem Statement](DSA_UNIT_3_LINKED_LIST/02_Problem_statement/)
+- [Objectives](DSA_UNIT_3_LINKED_LIST/03_Objectives/)
+- [Algorithm](DSA_UNIT_3_LINKED_LIST/04_Algorithm/)
+- [Flowchart](DSA_UNIT_3_LINKED_LIST/05_Flowchart.jpeg/)
+- [Output](DSA_UNIT_3_LINKED_LIST/06_Output/)
+- [Changed Problem Statement](DSA_UNIT_3_LINKED_LIST/Modified/07_Problem_statement_changed/)
+- [Changed Algorithm](DSA_UNIT_3_LINKED_LIST/Modified/08_Changed_Algorithm/)
+- [Changed code](DSA_UNIT_3_LINKED_LIST/Modified/Circular.cpp/)
 
 ## 🛠 Technologies Used
 
