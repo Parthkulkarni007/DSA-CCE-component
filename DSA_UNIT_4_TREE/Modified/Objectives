@@ -1,0 +1,5 @@
+To understand how an AVL tree stays height-balanced after insertions.
+To demonstrate the four rotation cases (LL, RR, LR, RL) with a suitable insertion sequence for each.
+To display the tree before and after each rotation.
+To display the balance factors that identify which rotation case applies.
+To let the user choose which rotation case to demonstrate through a menu.
