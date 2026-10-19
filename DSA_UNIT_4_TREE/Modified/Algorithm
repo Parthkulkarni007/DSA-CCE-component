@@ -1,0 +1,20 @@
+Start.
+Display the menu: LL, RR, LR, RL, Exit.
+Read the user’s choice.
+If the choice is Exit, stop. If it is invalid, show an error and go back to step 2.
+Select the insertion sequence for the chosen case:
+LL: 30, 20, 10
+RR: 10, 20, 30
+LR: 30, 10, 20
+RL: 10, 30, 20
+For each key in the sequence, insert it using the standard BST insert, then update the heights of the nodes on the path back to the root.
+For each node on that path, compute BF = height(left) − height(right).
+If |BF| ≤ 1, the node is balanced. Continue.
+If |BF| > 1, identify the case:
+BF > 1 and BF(left child) ≥ 0: LL. Display the tree, then apply a right rotation on the node.
+BF < −1 and BF(right child) ≤ 0: RR. Display the tree, then apply a left rotation on the node.
+BF > 1 and BF(left child) < 0: LR. Display the tree, apply a left rotation on the left child, then a right rotation on the node.
+BF < −1 and BF(right child) > 0: RL. Display the tree, apply a right rotation on the right child, then a left rotation on the node.
+Display the tree after the rotation, with the balance factor beside each node.
+After all keys are inserted, display the final balanced tree.
+Return to step 2.
