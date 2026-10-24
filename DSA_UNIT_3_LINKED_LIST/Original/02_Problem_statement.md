@@ -1,4 +1,4 @@
-## Problem Statement
+# Problem Statement
 
 To develop a simple text editor using a **Doubly Linked List in C++** that supports basic text editing 
 operations such as writing, deleting, undoing, redoing, and displaying text. Each node stores a snapshot 
