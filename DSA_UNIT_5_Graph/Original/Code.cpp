@@ -8,7 +8,7 @@ using namespace std;
 
 string name[N] = {"Central", "Market", "College", "Station", "Airport"};
 
-// travel time in minutes (0 = no direct route)
+
 int graph[N][N] = {
     {0, 4, 2, 0, 0},
     {4, 0, 1, 5, 0},
